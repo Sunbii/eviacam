@@ -42,7 +42,7 @@ fi
 # Obtain and install eViacam
   mkdir $tmpdir/eviacam
   cd $tmpdir/eviacam
-  wget https://github.com/cmauri/eviacam/archive/v2.1.3.zip
+  wget https://github.com/sunbii/smileny/archive/v2.1.3.zip
   unzip v2.1.3.zip
   cd eviacam-2.1.3
   touch $tmpdir/eviacam/config.rpath
